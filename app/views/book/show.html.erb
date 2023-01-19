@@ -1,0 +1,9 @@
+<h3><%= @book.name %></h3>
+<br>
+<h3>Have I read it? <%= @book.read %></h3>
+
+<p>
+  <%= link_to 'All the Books', books_path %>
+</p>
+<p><%= link_to 'Edit this Book', edit_book_path %></p>
+<p><%= button_to 'Remove Book', delete_book_path, method: :delete %></p>
