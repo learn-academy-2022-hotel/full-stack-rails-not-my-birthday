@@ -24,4 +24,34 @@
  - add route aliases
   - add links to show and back to home
 
-  
+### New
+ - displays a form
+ - get request
+ - read CRUD action
+- controller
+- routes
+- view
+
+### CREATE
+- adds content from the form to the db
+- POST request
+- create CRUD action
+- controller
+- routes
+- view
+
+
+### Destroy
+- controller
+- routes
+- view
+
+### Edit
+- controller
+- routes
+- view
+
+### Update
+- controller
+- routes
+- view
